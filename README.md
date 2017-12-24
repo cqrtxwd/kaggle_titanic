@@ -1,2 +1,4 @@
 # kaggle_titanic
 Titanic passenger survive prediction
+kaggle的泰坦尼克获救者预测比赛
+仿照热门kernel的Python实现
